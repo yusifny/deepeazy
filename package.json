@@ -1,6 +1,6 @@
 {
-  "name": "deepeazy2",
-  "version": "2.0.0",
+  "name": "deepeazy",
+  "version": "1.0.0",
   "description": "Deepeazy is a package which makes it easy to deep dive into and manipulate the style properties of HTML elements via Vanilla JavaScript.",
   "main": "index.js",
   "scripts": {
