@@ -1,0 +1,22 @@
+{
+  "name": "deepeazy",
+  "version": "1.0.0",
+  "description": "Deepeazy is a package which makes it easy to deep dive into and manipulate the style properties of HTML elements via Vanilla JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusifny/deepeazy.git"
+  },
+  "keywords": [
+    "deepeazy"
+  ],
+  "author": "Yusif N.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yusifny/deepeazy/issues"
+  },
+  "homepage": "https://github.com/yusifny/deepeazy#readme"
+}
